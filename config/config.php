@@ -5,4 +5,6 @@
  */
 return [
 
+    'veh_api_key' => env('VEH_INFO_API_KEY', ''),
+
 ];
